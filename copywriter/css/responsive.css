@@ -276,7 +276,7 @@
 	}
 	.banner-left-margin {
 		margin-bottom: 110px;
-		margin-left: 0;
+		margin-left: -100px;
 	}
 	.banner-button {
 		padding-right: 0;

@@ -435,8 +435,8 @@ img, img.responsive {
 	-ms-transition: all 0.4s ease-in 0s;
 }
 .banner-left-margin {
-	margin-left: 45px;
-	margin-bottom: 12px;
+	margin-left: -50px;
+	margin-bottom: 10px;
 }
 /* ------------- Right Banner Styles ------------- */
 .right-banner-image {
@@ -992,8 +992,8 @@ img, img.responsive {
 }
 
 .img .img-top {
-	width: 1500px;
-	height: 400px;
-	margin-top: -500px;
-	margin-left: 230px;
+	height: 500px;
+	width: 1000px;
+	margin-top: -600px;
+	margin-left: 145px;
 }
